@@ -1,9 +1,9 @@
 ---
 layout: about
 title: About
-image: sample-photo.png
-caption: your name here
-welcome-message: Nice to see you here
+image: me2.png
+caption: Sunil Anthony
+welcome-message: My Resume
 ---
 
 Give people something to read about you.
