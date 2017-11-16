@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-image: me2.png
+image: me2.jpg
 caption: Sunil Anthony
 welcome-message: My Resume
 ---
