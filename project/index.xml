@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Sunil Anthony</title>
+    <link>https://sunilanthony.github.io/project/</link>
+    <description>Recent content in Projects on Sunil Anthony</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Oct 2017 16:11:45 -0400</lastBuildDate>
+    
+	<atom:link href="https://sunilanthony.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Securing your ASP.NET Core 2.0 API using a JWT and adding Identity Authorization</title>
+      <link>https://sunilanthony.github.io/project/_proj_secure_core2api_with_jwt_authorization/</link>
+      <pubDate>Fri, 27 Oct 2017 16:11:45 -0400</pubDate>
+      
+      <guid>https://sunilanthony.github.io/project/_proj_secure_core2api_with_jwt_authorization/</guid>
+      <description>Comming Soon!! This will be coming in the near future</description>
+    </item>
+    
+    <item>
+      <title>Securing your ASP.NET Core 2.0 API using a JWT</title>
+      <link>https://sunilanthony.github.io/project/_proj_secure_core2api_with_jwt/</link>
+      <pubDate>Fri, 27 Oct 2017 15:56:39 -0400</pubDate>
+      
+      <guid>https://sunilanthony.github.io/project/_proj_secure_core2api_with_jwt/</guid>
+      <description>this is a test</description>
+    </item>
+    
+  </channel>
+</rss>

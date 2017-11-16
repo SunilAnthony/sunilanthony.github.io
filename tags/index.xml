@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Sunil Anthony</title>
+    <link>https://sunilanthony.github.io/tags/</link>
+    <description>Recent content in Tags on Sunil Anthony</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Oct 2017 16:24:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://sunilanthony.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>.Net Core</title>
+      <link>https://sunilanthony.github.io/tags/.net-core/</link>
+      <pubDate>Fri, 27 Oct 2017 16:24:08 -0400</pubDate>
+      
+      <guid>https://sunilanthony.github.io/tags/.net-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Api</title>
+      <link>https://sunilanthony.github.io/tags/api/</link>
+      <pubDate>Fri, 27 Oct 2017 16:24:08 -0400</pubDate>
+      
+      <guid>https://sunilanthony.github.io/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C#</title>
+      <link>https://sunilanthony.github.io/tags/c#/</link>
+      <pubDate>Fri, 27 Oct 2017 16:24:08 -0400</pubDate>
+      
+      <guid>https://sunilanthony.github.io/tags/c#/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identity</title>
+      <link>https://sunilanthony.github.io/tags/identity/</link>
+      <pubDate>Fri, 27 Oct 2017 16:24:08 -0400</pubDate>
+      
+      <guid>https://sunilanthony.github.io/tags/identity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jwt</title>
+      <link>https://sunilanthony.github.io/tags/jwt/</link>
+      <pubDate>Fri, 27 Oct 2017 16:24:08 -0400</pubDate>
+      
+      <guid>https://sunilanthony.github.io/tags/jwt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
