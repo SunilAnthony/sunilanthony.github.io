@@ -3,9 +3,6 @@ layout: post
 title: Unit Of Work in .Net Core 2.0
 date: 2017-11-15 18:30:30
 disqus: y
-layout: default
-comments: true
-# other options
 ---
 
 The answer is very simple: _i need to be more simple as possible_.
