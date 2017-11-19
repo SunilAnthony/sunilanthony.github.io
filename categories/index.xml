@@ -21,11 +21,29 @@
     </item>
     
     <item>
+      <title>.Net Core 2.0</title>
+      <link>https://sunilanthony.github.io/categories/.net-core-2.0/</link>
+      <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sunilanthony.github.io/categories/.net-core-2.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Development</title>
       <link>https://sunilanthony.github.io/categories/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://sunilanthony.github.io/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unit of Work</title>
+      <link>https://sunilanthony.github.io/categories/unit-of-work/</link>
+      <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sunilanthony.github.io/categories/unit-of-work/</guid>
       <description></description>
     </item>
     
