@@ -6,7 +6,7 @@
     <description>Recent content in .Net Core 2.0 on Sunil Anthony Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Nov 2017 18:27:12 -0500</lastBuildDate>
     
 	<atom:link href="https://sunilanthony.github.io/categories/.net-core-2.0/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,64 @@
     <item>
       <title>Create Unit of Work</title>
       <link>https://sunilanthony.github.io/post/create-unit-of-work/</link>
-      <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 Nov 2017 18:27:12 -0500</pubDate>
       
       <guid>https://sunilanthony.github.io/post/create-unit-of-work/</guid>
-      <description> How to create a Unit of Work in .NET Core 2.0 with Entity Framework Core 2.0 </description>
+      <description>How to create a Unit of Work in .NET Core 2.0 with Entity Framework Core 2.0 Comming soon!!!!!!!</description>
+    </item>
+    
+    <item>
+      <title>Generic Repository With Service Layer</title>
+      <link>https://sunilanthony.github.io/post/generic-repository-with-service-layer/</link>
+      <pubDate>Sun, 19 Nov 2017 18:27:12 -0500</pubDate>
+      
+      <guid>https://sunilanthony.github.io/post/generic-repository-with-service-layer/</guid>
+      <description>How to create a Generic Repository with Service Layer in .NET Core 2.0 with Entity Framework Core 2.0 Comming soon!!!!!!!</description>
+    </item>
+    
+    <item>
+      <title>Generic Respository</title>
+      <link>https://sunilanthony.github.io/post/generic-repository/</link>
+      <pubDate>Sun, 19 Nov 2017 18:27:12 -0500</pubDate>
+      
+      <guid>https://sunilanthony.github.io/post/generic-repository/</guid>
+      <description>How to create a Generic Repository in .NET Core 2.0 with Entity Framework Core 2.0 Comming soon!!!!!!!</description>
+    </item>
+    
+    <item>
+      <title>Secure Web API in Core 2.0</title>
+      <link>https://sunilanthony.github.io/post/secure-web-api-in-core2.0/</link>
+      <pubDate>Sun, 19 Nov 2017 18:27:12 -0500</pubDate>
+      
+      <guid>https://sunilanthony.github.io/post/secure-web-api-in-core2.0/</guid>
+      <description>How to create a Web API and Security it in .NET Core 2.0 with Entity Framework Core 2.0 Comming soon!!!!!!!</description>
+    </item>
+    
+    <item>
+      <title>Secure Web API in Core 2.0 with Claims</title>
+      <link>https://sunilanthony.github.io/post/secure-web-api-in-core2.0-with-claims/</link>
+      <pubDate>Sun, 19 Nov 2017 18:27:12 -0500</pubDate>
+      
+      <guid>https://sunilanthony.github.io/post/secure-web-api-in-core2.0-with-claims/</guid>
+      <description>How to create a Web API and Security it using Claims in .NET Core 2.0 with Entity Framework Core 2.0 Comming soon!!!!!!!</description>
+    </item>
+    
+    <item>
+      <title>Secure Web API in Core 2.0 with Roles</title>
+      <link>https://sunilanthony.github.io/post/secure-web-api-in-core2.0-with-roles/</link>
+      <pubDate>Sun, 19 Nov 2017 18:27:12 -0500</pubDate>
+      
+      <guid>https://sunilanthony.github.io/post/secure-web-api-in-core2.0-with-roles/</guid>
+      <description>How to create a Web API and Security it using Roles in .NET Core 2.0 with Entity Framework Core 2.0 Comming soon!!!!!!!</description>
+    </item>
+    
+    <item>
+      <title>Web API in Core 2.0</title>
+      <link>https://sunilanthony.github.io/post/web-api-in-core2.0/</link>
+      <pubDate>Sun, 19 Nov 2017 18:27:12 -0500</pubDate>
+      
+      <guid>https://sunilanthony.github.io/post/web-api-in-core2.0/</guid>
+      <description>How to create a Web API in .NET Core 2.0 with Entity Framework Core 2.0 Comming soon!!!!!!!</description>
     </item>
     
   </channel>

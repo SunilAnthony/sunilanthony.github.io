@@ -12,18 +12,9 @@
     
     
     <item>
-      <title>.Net</title>
-      <link>https://sunilanthony.github.io/tags/.net/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://sunilanthony.github.io/tags/.net/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>.Net Core 2.0</title>
       <link>https://sunilanthony.github.io/tags/.net-core-2.0/</link>
-      <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 Nov 2017 18:27:12 -0500</pubDate>
       
       <guid>https://sunilanthony.github.io/tags/.net-core-2.0/</guid>
       <description></description>
@@ -32,81 +23,90 @@
     <item>
       <title>C#</title>
       <link>https://sunilanthony.github.io/tags/c#/</link>
-      <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 Nov 2017 18:27:12 -0500</pubDate>
       
       <guid>https://sunilanthony.github.io/tags/c#/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Development</title>
-      <link>https://sunilanthony.github.io/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://sunilanthony.github.io/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Entity Famework Core 2.0</title>
       <link>https://sunilanthony.github.io/tags/entity-famework-core-2.0/</link>
-      <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 Nov 2017 18:27:12 -0500</pubDate>
       
       <guid>https://sunilanthony.github.io/tags/entity-famework-core-2.0/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Extensions</title>
+      <link>https://sunilanthony.github.io/tags/extensions/</link>
+      <pubDate>Sun, 19 Nov 2017 18:27:12 -0500</pubDate>
+      
+      <guid>https://sunilanthony.github.io/tags/extensions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generic Repository Pattern</title>
+      <link>https://sunilanthony.github.io/tags/generic-repository-pattern/</link>
+      <pubDate>Sun, 19 Nov 2017 18:27:12 -0500</pubDate>
+      
+      <guid>https://sunilanthony.github.io/tags/generic-repository-pattern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hugo</title>
       <link>https://sunilanthony.github.io/tags/hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 Nov 2017 18:32:52 -0500</pubDate>
       
       <guid>https://sunilanthony.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Identity</title>
+      <link>https://sunilanthony.github.io/tags/identity/</link>
+      <pubDate>Sun, 19 Nov 2017 18:27:12 -0500</pubDate>
+      
+      <guid>https://sunilanthony.github.io/tags/identity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Json Web Token</title>
+      <link>https://sunilanthony.github.io/tags/json-web-token/</link>
+      <pubDate>Sun, 19 Nov 2017 18:27:12 -0500</pubDate>
+      
+      <guid>https://sunilanthony.github.io/tags/json-web-token/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Repository Pattern</title>
       <link>https://sunilanthony.github.io/tags/repository-pattern/</link>
-      <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 Nov 2017 18:27:12 -0500</pubDate>
       
       <guid>https://sunilanthony.github.io/tags/repository-pattern/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Templates</title>
-      <link>https://sunilanthony.github.io/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Service Layer</title>
+      <link>https://sunilanthony.github.io/tags/service-layer/</link>
+      <pubDate>Sun, 19 Nov 2017 18:27:12 -0500</pubDate>
       
-      <guid>https://sunilanthony.github.io/tags/templates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Themes</title>
-      <link>https://sunilanthony.github.io/tags/themes/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://sunilanthony.github.io/tags/themes/</guid>
+      <guid>https://sunilanthony.github.io/tags/service-layer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unit of Work</title>
       <link>https://sunilanthony.github.io/tags/unit-of-work/</link>
-      <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 Nov 2017 18:27:12 -0500</pubDate>
       
       <guid>https://sunilanthony.github.io/tags/unit-of-work/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Webapi</title>
-      <link>https://sunilanthony.github.io/tags/webapi/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://sunilanthony.github.io/tags/webapi/</guid>
       <description></description>
     </item>
     

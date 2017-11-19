@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C# on Sunil Anthony Blog</title>
+    <link>https://sunilanthony.github.io/categories/c#/</link>
+    <description>Recent content in C# on Sunil Anthony Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 19 Nov 2017 18:27:12 -0500</lastBuildDate>
+    
+	<atom:link href="https://sunilanthony.github.io/categories/c#/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Extension With CSharp</title>
+      <link>https://sunilanthony.github.io/post/extension-with-csharp/</link>
+      <pubDate>Sun, 19 Nov 2017 18:27:12 -0500</pubDate>
+      
+      <guid>https://sunilanthony.github.io/post/extension-with-csharp/</guid>
+      <description>Using Extensions method in C Comming soon!!!!!!!</description>
+    </item>
+    
+  </channel>
+</rss>

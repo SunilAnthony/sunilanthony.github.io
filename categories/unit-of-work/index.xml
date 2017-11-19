@@ -6,7 +6,7 @@
     <description>Recent content in Unit of Work on Sunil Anthony Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Nov 2017 18:27:12 -0500</lastBuildDate>
     
 	<atom:link href="https://sunilanthony.github.io/categories/unit-of-work/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,10 @@
     <item>
       <title>Create Unit of Work</title>
       <link>https://sunilanthony.github.io/post/create-unit-of-work/</link>
-      <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 Nov 2017 18:27:12 -0500</pubDate>
       
       <guid>https://sunilanthony.github.io/post/create-unit-of-work/</guid>
-      <description> How to create a Unit of Work in .NET Core 2.0 with Entity Framework Core 2.0 </description>
+      <description>How to create a Unit of Work in .NET Core 2.0 with Entity Framework Core 2.0 Comming soon!!!!!!!</description>
     </item>
     
   </channel>

@@ -3,18 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sunilanthony.github.io/post/create-blog-using-hugo/</loc>
+    <lastmod>2017-11-19T18:32:52-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sunilanthony.github.io/post/create-unit-of-work/</loc>
-    <lastmod>2017-11-19T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-19T18:27:12-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sunilanthony.github.io/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://sunilanthony.github.io/post/extension-with-csharp/</loc>
+    <lastmod>2017-11-19T18:27:12-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sunilanthony.github.io/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>https://sunilanthony.github.io/post/generic-repository-with-service-layer/</loc>
+    <lastmod>2017-11-19T18:27:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sunilanthony.github.io/post/generic-repository/</loc>
+    <lastmod>2017-11-19T18:27:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sunilanthony.github.io/post/secure-web-api-in-core2.0/</loc>
+    <lastmod>2017-11-19T18:27:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sunilanthony.github.io/post/secure-web-api-in-core2.0-with-claims/</loc>
+    <lastmod>2017-11-19T18:27:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sunilanthony.github.io/post/secure-web-api-in-core2.0-with-roles/</loc>
+    <lastmod>2017-11-19T18:27:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sunilanthony.github.io/post/web-api-in-core2.0/</loc>
+    <lastmod>2017-11-19T18:27:12-05:00</lastmod>
   </url>
   
   <url>
@@ -28,120 +58,116 @@
   </url>
   
   <url>
-    <loc>https://sunilanthony.github.io/post/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sunilanthony.github.io/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sunilanthony.github.io/tags/.net/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sunilanthony.github.io/categories/.net/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sunilanthony.github.io/tags/.net-core-2.0/</loc>
-    <lastmod>2017-11-19T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-19T18:27:12-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sunilanthony.github.io/categories/.net-core-2.0/</loc>
-    <lastmod>2017-11-19T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-19T18:27:12-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sunilanthony.github.io/tags/c#/</loc>
-    <lastmod>2017-11-19T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-19T18:27:12-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunilanthony.github.io/categories/c#/</loc>
+    <lastmod>2017-11-19T18:27:12-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sunilanthony.github.io/categories/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sunilanthony.github.io/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sunilanthony.github.io/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-19T18:27:12-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sunilanthony.github.io/tags/entity-famework-core-2.0/</loc>
-    <lastmod>2017-11-19T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-19T18:27:12-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunilanthony.github.io/tags/extensions/</loc>
+    <lastmod>2017-11-19T18:27:12-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunilanthony.github.io/tags/generic-repository-pattern/</loc>
+    <lastmod>2017-11-19T18:27:12-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sunilanthony.github.io/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-19T18:32:52-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunilanthony.github.io/categories/hugo/</loc>
+    <lastmod>2017-11-19T18:32:52-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunilanthony.github.io/tags/identity/</loc>
+    <lastmod>2017-11-19T18:27:12-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunilanthony.github.io/categories/identity/</loc>
+    <lastmod>2017-11-19T18:27:12-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunilanthony.github.io/tags/json-web-token/</loc>
+    <lastmod>2017-11-19T18:27:12-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sunilanthony.github.io/post/</loc>
-    <lastmod>2017-11-19T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-19T18:32:52-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sunilanthony.github.io/tags/repository-pattern/</loc>
-    <lastmod>2017-11-19T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-19T18:27:12-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunilanthony.github.io/tags/service-layer/</loc>
+    <lastmod>2017-11-19T18:27:12-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sunilanthony.github.io/</loc>
-    <lastmod>2017-11-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sunilanthony.github.io/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sunilanthony.github.io/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-19T18:32:52-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sunilanthony.github.io/tags/unit-of-work/</loc>
-    <lastmod>2017-11-19T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-19T18:27:12-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sunilanthony.github.io/categories/unit-of-work/</loc>
-    <lastmod>2017-11-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sunilanthony.github.io/tags/webapi/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-19T18:27:12-05:00</lastmod>
     <priority>0</priority>
   </url>
   
