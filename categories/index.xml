@@ -6,9 +6,19 @@
     <description>Recent content in Categories on Sunil Anthony Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sunilanthony.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>.Net</title>
+      <link>https://sunilanthony.github.io/categories/.net/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://sunilanthony.github.io/categories/.net/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Development</title>
@@ -16,15 +26,6 @@
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://sunilanthony.github.io/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Golang</title>
-      <link>https://sunilanthony.github.io/categories/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://sunilanthony.github.io/categories/golang/</guid>
       <description></description>
     </item>
     
