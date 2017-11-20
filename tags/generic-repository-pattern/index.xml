@@ -6,7 +6,7 @@
     <description>Recent content in Generic Repository Pattern on Sunil Anthony Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Nov 2017 18:27:12 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 13 Nov 2017 18:32:52 -0500</lastBuildDate>
     
 	<atom:link href="https://sunilanthony.github.io/tags/generic-repository-pattern/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Generic Repository With Service Layer</title>
       <link>https://sunilanthony.github.io/post/generic-repository-with-service-layer/</link>
-      <pubDate>Sun, 19 Nov 2017 18:27:12 -0500</pubDate>
+      <pubDate>Mon, 13 Nov 2017 18:32:52 -0500</pubDate>
       
       <guid>https://sunilanthony.github.io/post/generic-repository-with-service-layer/</guid>
       <description>How to create a Generic Repository with Service Layer in .NET Core 2.0 with Entity Framework Core 2.0 Comming soon!!!!!!!</description>

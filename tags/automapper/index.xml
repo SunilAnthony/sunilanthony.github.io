@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automapper on Sunil Anthony Blog</title>
+    <link>https://sunilanthony.github.io/tags/automapper/</link>
+    <description>Recent content in Automapper on Sunil Anthony Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 19 Nov 2017 19:20:26 -0500</lastBuildDate>
+    
+	<atom:link href="https://sunilanthony.github.io/tags/automapper/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using Automapper</title>
+      <link>https://sunilanthony.github.io/post/using-automapper/</link>
+      <pubDate>Sun, 19 Nov 2017 19:20:26 -0500</pubDate>
+      
+      <guid>https://sunilanthony.github.io/post/using-automapper/</guid>
+      <description>How use AutoMapper in .NET Framework Comming soon!!!!!!!</description>
+    </item>
+    
+  </channel>
+</rss>
